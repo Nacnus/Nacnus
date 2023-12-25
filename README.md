@@ -5,14 +5,14 @@
 </h1>
   
 <p align="center">
-    Hi, I'm Yusuf Can Sun, Backend Developer from Turkey 👋
+    Hi, I'm Yusuf Can Sun, Frontend Developer from Turkey 👋
     <br>
     <br>
     🔬 I'm currently studying for degree in Manisa Celal Bayar University
     <br>
     💻 I love writing code and learn anythings about it
     <br>
-    📚 I’m currently learning Backend Development
+    📚 I’m currently learning Frontend Development
     <br>
     📫 How to reach me: 
     <code><a href="https://www.linkedin.com/in/yusufcansun/"><img height="25" src="https://raw.githubusercontent.com/PrinceCorwin/Useful-tech-icons/main/images/linkedin.png" alt="LinkedIn" title="LinkedIn" /></a></code>
